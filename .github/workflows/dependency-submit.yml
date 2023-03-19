@@ -19,3 +19,4 @@ jobs:
         with:
           gradle-project-path: .
           gradle-build-module:
+          use-gradlew: true
